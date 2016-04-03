@@ -16,7 +16,8 @@ echo 'conflict?';
 
 <?php
 
-function zoom(){
+function zoom($a){
+    count($a);
     return 'zoom';
 }
 
