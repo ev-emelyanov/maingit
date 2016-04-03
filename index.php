@@ -21,6 +21,6 @@ function zoom(){
 }
 
 function fix(){
-
+    return 'fix';
 }
 ?>
