@@ -4,3 +4,5 @@ echo 'Hello, Git!';
 phpinfo();
 
 echo 'New text';
+
+echo 'conflict?';
