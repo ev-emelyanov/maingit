@@ -16,11 +16,13 @@ echo 'conflict?';
 
 <?php
 
-function zoom(){
+function zoom($a){
+    count($a);
     return 'zoom';
 }
 
 function fix(){
+    zoom(['a', 'z', 'y']);
     return 'fix';
 }
 ?>
