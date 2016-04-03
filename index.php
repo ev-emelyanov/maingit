@@ -22,6 +22,7 @@ function zoom($a){
 }
 
 function fix(){
+    zoom(['a', 'z', 'y']);
     return 'fix';
 }
 ?>
