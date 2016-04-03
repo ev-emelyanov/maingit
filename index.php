@@ -2,3 +2,5 @@
 echo 'Hello, Git!';
 
 phpinfo();
+
+echo '';
