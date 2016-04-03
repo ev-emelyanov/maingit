@@ -15,5 +15,7 @@ echo 'conflict?';
    чтобы изолировать их от изменений в ветке master.</p>
 
 <?php
-
+function zoom(){
+    return 'zoom';
+}
 ?>
