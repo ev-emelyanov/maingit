@@ -3,4 +3,4 @@ echo 'Hello, Git!';
 
 phpinfo();
 
-echo '';
+echo 'New text';
