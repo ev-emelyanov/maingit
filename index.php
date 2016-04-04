@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 echo 'Hello, Git!';
 
 phpinfo();
@@ -23,7 +23,7 @@ function zoom($a, $b = 'string'){
 }
 
 function fix(){
-    zoom(['a', 'z', 'y']);
+    zoom(['a', 'z', 'y', 'b']);
     return 'fix';
 }
 ?>
