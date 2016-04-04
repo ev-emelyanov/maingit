@@ -5,9 +5,6 @@ phpinfo();
 
 echo 'New text';
 
-
-echo 'conflict?';
-
 ?>
 
 <p>Пора сделать наш hello world более выразительным.
