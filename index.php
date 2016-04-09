@@ -1,9 +1,10 @@
-﻿<?php
+<?php
 echo 'Hello, Git!';
 
 phpinfo();
 
 echo 'New text';
+echo 'New text2';
 
 ?>
 
