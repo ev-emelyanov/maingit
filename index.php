@@ -20,6 +20,7 @@ echo 'New text2';
 function zoom($a, $b = 'string'){
     count($a);
     echo $b;
+    echo $a;
     return 'zoom';
 }
 
